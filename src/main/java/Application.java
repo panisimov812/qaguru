@@ -6,6 +6,6 @@ public class Application {
     }
 
     public static void another(){
-        System.out.println("yo");
+        System.out.println("YO");
     }
 }

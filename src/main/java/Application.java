@@ -4,4 +4,7 @@ public class Application {
         System.out.println("Hello GIT2");
 
     }
+    public static void another(){
+        Systea.out.println("yo");
+    }
 }
